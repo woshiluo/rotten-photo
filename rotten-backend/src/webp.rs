@@ -1,4 +1,4 @@
-// Modify from https://users.rust-lang.org/t/uploading-files-to-a-rocket-server/76575
+// Modify from https://users.rust-lang.org/t/converting-png-jpeg-image-to-webp/71080
 //
 use image::io::Reader as ImageReader;
 use image::{DynamicImage, EncodableLayout}; // Using image crate: https://github.com/image-rs/image
