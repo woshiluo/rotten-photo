@@ -7,6 +7,6 @@
 ## 怎么用
 
 - `rotten-backend`：后端
-- `rotten-backend`：前端
+- `rotten-fronted`：前端
 
 详情请参见各自仓库
